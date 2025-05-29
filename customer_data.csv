@@ -1,0 +1,121 @@
+CustomerID,FirstName,LastName,Email,Phone,JoinDate,Country,TotalSpent
+1,Amanda,Davis,amanda.davis@gmail.com,,2025/02/16,CA,263.43
+2,Johnny,Patton,johnny.patton@yahoo.com,144.155.5662,03/13/2025,UK,621.4
+3,Andrew,Vasquez,andrew.vasquez@hotmail.com,001-448-563-8867x2629,2025/05/16,UK,979.68
+4,Michelle,Rogers,michelle.rogers@yahoo.com,917.488.7470x689,05/03/2025,UK,402.72
+5,Valerie,Espinoza,valerie.espinoza@gmail.com,630.109.5856x96122,2025-01-04,us,525.22
+6,Lori,Hill,lori.hill@yahoo.com,369-774-3562x1365,04-May-2025,usa,669.73
+6,Lori,Hill,lori.hill@yahoo.com,369-774-3562x1365,04-May-2025,usa,669.73
+8,Michael,Patterson,michael.patterson@yahoo.com,+1-900-745-4078,01/08/2025,UK,373.54
+1,Amanda,Davis,amanda.davis@gmail.com,,2025/02/16,CA,263.43
+10,Glenn,Schaefer,glenn.schaefer@yahoo.com,001-944-302-9942x220,05-Jan-2025,CA,537.89
+11,Oscar,Rose,oscar.rose@hotmail.com,8258912524,16-Feb-2025,USA,177.89
+12,Cheryl,Gonzalez,cherylgonzalez@hotmailcom,5969347721,01/02/2025,usa,294.6
+13,Peter,Sullivan,peter.sullivan@hotmail.com,+1-229-937-9020x741,2025/04/15,US,69.24
+14,Andrew,Brooks,andrew.brooks@gmail.com,513-861-7539x3576,"April 10, 2025",Canada,254.11
+15,Lawrence,Burton,lawrence.burton@yahoo.com,(654)077-7370,2025-04-22,US,646.81
+16,Brandon,Flores,brandon.flores@gmail.com,101-268-5374x417,03/15/2025,Canada,825.3
+17,Nicole,Stanley,nicole.stanley@yahoo.com,,2025-01-10,UK,53.17
+8,Michael,Patterson,michael.patterson@yahoo.com,+1-900-745-4078,01/08/2025,UK,373.54
+10,Glenn,Schaefer,glenn.schaefer@yahoo.com,001-944-302-9942x220,05-Jan-2025,CA,537.89
+20,Susan,Murphy,susanmurphy@hotmailcom,001-986-250-3634x88709,2025/04/01,UK,399.0
+21,Michael,Riley,michael.riley@hotmail.com,501-147-1625x857,"January 24, 2025",UK,25.8
+22,Sandra,Holmes,sandra.holmes@hotmail.com,646.821.5558,"March 32, 2023",USA,806.89
+23,Lisa,Smith,lisasmith@gmailcom,001-189-343-3686x718,03/05/2025,US,503.58
+24,Richard,,richard@hotmail.com,465-754-6140x816,"February 02, 2025",usa,958.14
+25,Michael,Prince,michael.prince@gmail.com,406-352-3320,"February 01, 2025",UK,515.22
+26,Adrienne,Hughes,adrienne.hughes@hotmail.com,544-939-1389,04/02/2025,Canada,825.06
+27,Jeffery,,jeffery@yahoo.com,+1-585-137-7075x2569,"January 25, 2025",usa,402.43
+28,Jonathan,Floyd,jonathan.floyd@gmail.com,+1-588-500-8281x18756,2025/03/10,UK,659.79
+29,Diana,Hernandez,diana.hernandez@yahoo.com,,03/20/2025,UK,533.47
+30,Molly,,molly@hotmail.com,+1-780-713-4486x7725,05/23/2025,usa,43.32
+31,Robert,Ritter,robert.ritter@hotmail.com,,"April 06, 2025",us,289.0
+32,Kevin,Lamb,kevin.lamb@gmail.com,001-657-837-4538x6700,25-Feb-2025,UK,571.59
+33,Keith,,keith@gmail.com,170-199-9621x585,"April 04, 2025",USA,368.27
+34,Lisa,White,lisa.white@hotmail.com,(187)023-0745,01/28/2025,usa,705.91
+35,Christopher,Alvarez,christopher.alvarez@gmail.com,2512986636,11-Feb-2025,Canada,763.29
+36,Henry,Torres,henry.torres@gmail.com,527-348-2772x37455,2025-01-02,USA,132.67
+37,Rebecca,Patrick,rebecca.patrick@yahoo.com,441.661.6539x3705,28-Mar-2025,us,389.59
+38,Emily,Hobbs,emily.hobbs@gmail.com,+1-780-526-0357x35075,22-May-2025,US,952.92
+39,Sandra,Williams,sandra.williams@yahoo.com,,2025/02/18,UK,274.49
+40,Kayla,Craig,kayla.craig@yahoo.com,,14-Mar-2025,US,948.04
+41,Christopher,Gonzalez,christopher.gonzalez@gmail.com,469-561-7892x4366,24-May-2025,US,838.19
+42,Warren,Franklin,warren.franklin@hotmail.com,(052)514-2056,2025/04/12,CA,561.88
+43,Laura,Gould,laura.gould@gmail.com,001-945-131-1569,30-Jan-2025,us,261.78
+44,Cody,,cody@gmail.com,738-127-2094x562,2025/05/24,CA,113.51
+45,Chris,,chris@yahoo.com,250.002.5928,01/05/2025,usa,-738.74
+45,Chris,,chris@yahoo.com,250.002.5928,01/05/2025,usa,-738.74
+47,Jonathan,Sandoval,jonathan.sandoval@hotmail.com,(851)298-8678x0705,24-Feb-2025,us,107.7
+48,Barbara,Liu,barbara.liu@yahoo.com,688-148-5753,2025/01/31,US,923.55
+49,Nathan,Skinner,nathan.skinner@gmail.com,881.207.5943x35216,05-May-2025,UK,60.88
+50,Jessica,Riley,jessica.riley@gmail.com,(803)190-5456x127,05/20/2025,US,299.49
+51,Melissa,Rogers,melissa.rogers@yahoo.com,170.063.0464x81590,2025/01/14,US,468.73
+52,William,,william@gmailcom,+1-762-534-1453x20365,2025-03-08,CA,not_available
+53,George,Underwood,george.underwood@gmail.com,(038)497-9437x215,"January 25, 2025",UK,not_available
+54,Cheryl,Rowe,cheryl.rowe@hotmail.com,(463)184-2174,02/18/2025,Canada,56.55
+55,Kristen,Hernandez,kristen.hernandez@hotmail.com,+1-893-081-8696x342,02/19/2025,CA,-947.6
+56,Jeremy,Cooper,jeremy.cooper@yahoo.com,+1-208-088-9221x554,04-Jan-2025,UK,719.84
+57,Autumn,Wilson,autumn.wilson@yahoo.com,827-084-8935x95338,21-Apr-2025,UK,187.7
+58,Scott,Proctor,scott.proctor@hotmail.com,0726278970,"March 32, 2023",USA,145.59
+59,Allison,Vasquez,allison.vasquez@yahoo.com,(906)730-6471x99927,29-Apr-2025,UK,120.0
+60,Robert,Stone,robert.stone@gmail.com,001-196-222-2969x42956,2025/01/29,UK,754.97
+61,Teresa,Hernandez,teresa.hernandez@gmail.com,903-030-1577x04312,2025/04/14,UK,62.02
+62,Kimberly,Moore,kimberly.moore@yahoo.com,223.054.0916x158,"May 07, 2025",CA,783.23
+63,Jamie,,jamie@hotmail.com,089-008-2277,2025/05/06,UK,676.28
+64,Brian,,brian@gmail.com,813-469-5000x847,"January 08, 2025",usa,288.34
+65,Troy,Smith,troy.smith@gmail.com,552-385-7185x883,05/19/2025,USA,789.29
+66,Christian,Edwards,christian.edwards@yahoo.com,773.264.4512x7136,11-Apr-2025,US,218.06
+67,Ashley,Booth,ashley.booth@hotmail.com,315-822-3623,2025-04-27,UK,25.73
+68,Luke,Smith,luke.smith@yahoo.com,155.298.4548,19-May-2025,Canada,not_available
+69,Brent,,brent@gmail.com,564.496.2464x4219,2025/03/06,US,559.26
+70,Karen,Moreno,karen.moreno@yahoo.com,890.259.8445x6196,"March 32, 2023",UK,210.77
+71,Melinda,Drake,melinda.drake@yahoo.com,814.667.0912,2025/04/28,UK,872.61
+72,Melissa,Gibson,melissa.gibson@yahoo.com,001-647-858-3328,"May 13, 2025",us,159.23
+73,Kathleen,Brown,kathleenbrown@gmailcom,(309)646-8529x18187,19-Apr-2025,USA,559.51
+74,Jessica,Johnson,jessica.johnson@yahoo.com,207.758.6897x486,01/13/2025,us,243.85
+75,Catherine,Calderon,catherine.calderon@hotmail.com,001-560-578-4488x482,19-May-2025,UK,308.21
+76,Jeffrey,Hinton,jeffrey.hinton@gmail.com,842-486-2365,10-May-2025,us,957.79
+77,Nancy,Warren,nancy.warren@gmail.com,(391)441-3267,"April 08, 2025",US,460.88
+78,Lisa,Gallagher,lisa.gallagher@hotmail.com,,"March 04, 2025",US,952.42
+39,Sandra,Williams,sandra.williams@yahoo.com,,2025/02/18,UK,274.49
+80,Alexandria,Valencia,alexandria.valencia@hotmail.com,(295)854-4304x0635,01/11/2025,Canada,995.7
+81,Jason,Miller,jason.miller@hotmail.com,+1-547-542-5016x8192,"March 22, 2025",UK,899.96
+82,Frank,Wilson,frank.wilson@gmail.com,968.863.8683x4443,03/03/2025,USA,672.1
+83,Natalie,Allen,natalieallen@gmailcom,+1-710-940-2504x9023,"May 23, 2025",US,-133.27
+84,Michael,Ruiz,michael.ruiz@hotmail.com,057-350-0595x778,2025-04-27,usa,848.31
+85,Jeffrey,Wells,jeffrey.wells@yahoo.com,001-334-545-5861,"March 32, 2023",us,661.71
+86,Ryan,,ryan@yahoo.com,+1-270-378-4701x327,2025-02-14,UK,419.58
+87,Terri,Estrada,terri.estrada@yahoo.com,001-566-733-8388x109,17-Mar-2025,us,865.18
+88,Robert,Smith,robert.smith@hotmail.com,668.829.6101,2025-03-10,UK,734.52
+89,Chelsea,Downs,chelsea.downs@hotmail.com,(240)594-0560x89252,03/24/2025,UK,739.72
+90,Emily,Walker,emily.walker@hotmail.com,(588)850-5921,2025-02-01,USA,not_available
+91,Devon,Lee,devon.lee@yahoo.com,(007)978-7398,2025-05-22,UK,753.46
+92,Michelle,Ward,michelle.ward@yahoo.com,802.722.0107x081,"January 23, 2025",us,250.01
+93,Tiffany,Newman,tiffany.newman@hotmail.com,737.095.1306,2025-05-15,CA,115.55
+94,Kevin,Hill,kevin.hill@gmail.com,(011)696-4841x0572,23-Mar-2025,UK,400.32
+95,Jonathan,Johnson,jonathan.johnson@yahoo.com,001-999-768-4295x270,"April 14, 2025",USA,421.44
+96,Jane,Greene,jane.greene@yahoo.com,001-295-037-5698x55341,03/09/2025,Canada,400.9
+97,Jennifer,,jennifer@hotmail.com,001-188-577-3767,2025/05/06,UK,202.68
+98,Gregory,Davis,gregory.davis@yahoo.com,+1-866-763-8037x65006,02/19/2025,US,411.47
+99,Hannah,Rivera,hannahrivera@yahoocom,001-694-245-7591,2025/03/25,UK,69.61
+100,John,Martin,john.martin@gmail.com,(568)084-5562x9780,2025-05-01,UK,634.7
+101,Frances,Garcia,frances.garcia@gmail.com,,"March 32, 2023",us,243.21
+102,Dawn,Wright,dawn.wright@gmail.com,563.423.7064,2025/01/05,USA,535.56
+103,Andrew,Waller,andrew.waller@hotmail.com,(705)043-2492,2025-01-15,US,363.98
+104,Jeremy,Mendez,jeremymendez@hotmailcom,(181)517-7781x046,28-Feb-2025,UK,765.18
+105,Taylor,Summers,taylor.summers@gmail.com,033.998.3782x3488,02/03/2025,CA,854.79
+106,Travis,Harris,travisharris@hotmailcom,(984)181-3221x6291,"March 32, 2023",US,930.03
+107,Michael,King,michael.king@gmail.com,5375023669,"January 07, 2025",UK,586.23
+108,Jeffrey,Coleman,jeffrey.coleman@gmail.com,254-170-6398x15223,02/01/2025,US,866.77
+109,Harry,Garcia,harry.garcia@yahoo.com,358.039.1546,03/18/2025,UK,not_available
+110,James,Ortiz,james.ortiz@hotmail.com,158-376-4046,02/27/2025,UK,400.15
+111,Erik,Williams,erik.williams@hotmail.com,271-330-7942x934,05-Apr-2025,CA,808.44
+112,Randall,Patterson,randall.patterson@hotmail.com,717-256-2920x53691,03/05/2025,UK,239.94
+113,Robert,Saunders,robert.saunders@yahoo.com,(397)672-9437,04/07/2025,usa,254.25
+114,Brian,Perry,brian.perry@yahoo.com,+1-654-625-3849x6735,2025-05-11,UK,977.69
+115,Monica,Bailey,monicabailey@yahoocom,(888)314-7421x6430,01/06/2025,US,511.16
+116,Michael,Bowman,michael.bowman@hotmail.com,(702)189-3838x39427,02/07/2025,USA,395.47
+117,Deborah,,deborah@yahoo.com,138.454.1538x3977,2025/03/26,US,678.7
+118,Phillip,Fowler,phillip.fowler@yahoo.com,+1-470-743-8391x1928,04/06/2025,CA,518.46
+119,Paul,Mathews,paul.mathews@yahoo.com,,04-Mar-2025,usa,427.44
+120,Michael,Rich,michael.rich@yahoo.com,+1-525-109-9049,02/17/2025,us,not_available
